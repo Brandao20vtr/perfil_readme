@@ -1,5 +1,7 @@
 ### Olá! Eu sou o Vitor Brandão 👋😃
 
+##
+
 - 🏫 Estudante de Sistemas de Informação - UNINOVE
 - 📈 Área desejada: Analista de Dados
 
@@ -11,15 +13,22 @@
 
 ### Cursos que estou cursando 🎓
 
+##
+
 - 🐍 Python
 - 🗃️ Big Data
 - 🧱 Análise de Dados
 
 ### Certificados 📜
 
+##
+
 - 📊 MS Power BI
 
 ### E-mail para contato 📞
+
+##
+
 - 📧 vitor.bjd20@gmail.com
 
  ![Snake animation](https://github.com/brandao20vtr/brandao20vtr/blob/output/github-contribution-grid-snake.svg)
