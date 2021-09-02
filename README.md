@@ -22,4 +22,4 @@
 ### E-mail para contato 📞
 - 📧 vitor.bjd20@gmail.com
 
-
+ ![Snake animation](https://github.com/brandao20vtr/brandao20vtr/blob/output/github-contribution-grid-snake.svg)
