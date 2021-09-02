@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá! Eu sou o Vitor Brandão 👋😃
 
-<!--
-**Brandao20vtr/Brandao20vtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏫 Estudante de Sistemas de Informação - UNINOVE
+- 📈 Área desejada: Analista de Dados
 
-Here are some ideas to get you started:
+### Cursando 🎓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🕹️ Python 
+- 🗃️ Big Data
+- 🧱 Análise de Dados
+
+### Certificados 📜
+
+- 📊 MS Power BI
