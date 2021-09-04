@@ -22,7 +22,7 @@
 
 ##
 
-### Certificados 📜
+### Abilidades 🏆
 
 - 📊 MS Power BI
 
