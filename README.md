@@ -22,7 +22,7 @@
 
 ##
 
-### Abilidades 🏆
+### Habilidades 🏆
 
 - 📊 MS Power BI
 
