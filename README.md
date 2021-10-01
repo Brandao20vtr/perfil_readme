@@ -1,5 +1,7 @@
 ### Olá! Eu sou o Vitor Brandão 👋😃
 
+---
+
 - 🏫 Estudante de Sistemas de Informação - UNINOVE
 - 📈 Área desejada: Analista de Dados
 
@@ -17,14 +19,16 @@
 
 
 - 🐍 Python
-- 🗃️ Big Data
-- 🧱 Análise de Dados
+- 🐬 MySQL
+- 🐘 PostgreSQL
 
 ##
 
 ### Skills 🏆
 
 - 📊 MS Power BI
+- 🗃️ Introdução á Big Data
+- 🧱 Introdução á Análise de Dados
 
 ##
 
