@@ -3,7 +3,8 @@
 ---
 
 - 🏫 Estudante de Sistemas de Informação - UNINOVE
-- 📈 Área desejada: Analista de Dados
+- 📈 Área desejada: Cientista de Dados
+- :green_heart: Estagiário na Leroy Merlin em Ciência de Dados
 
 ##
 
