@@ -28,7 +28,7 @@
 
 - 📊 MS Power BI
 - 🗃️ Introdução á Big Data
-- 🧱 Introdução á Análise de Dados
+- 🧱 Introdução á Ciência de Dados
 
 ##
 
