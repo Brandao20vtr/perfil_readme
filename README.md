@@ -19,11 +19,10 @@
 ### Skills 🏆
 
 - 🐍 Python
-- 🐬 MySQL
-- 🐘 PostgreSQL
+- 🐬 SQL
 - 📊 MS Power BI
-- 🗃️ Introdução á Big Data
-- 🧱 Introdução á Ciência de Dados
+- 🗃️ Big Data Fundamentos
+- 🧱 Introdução a Ciência de Dados
 
 ##
 
