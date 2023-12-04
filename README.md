@@ -5,7 +5,6 @@
 
 - 🏫 Estudante de Sistemas de Informação - UNINOVE
 - 📈 Área desejada: Cientista de Dados
-- :green_heart: Estagiário em Ciência de Dados - Leroy Merlin 🚀🚀🚀
 
 ##
 
@@ -22,6 +21,7 @@
 - 🐍 Python
 - 🚀 Google BigQuery
 - 🐬 SQL
+- 📈 Looker Studio
 - 📊 MS Power BI
 - 🗃️ Big Data Fundamentos
 - 🧱 Introdução a Ciência de Dados
